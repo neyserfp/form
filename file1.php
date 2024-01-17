@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="files12.php" method="post" enctype="multipart/form-data" >
+    <form action="file1.php" method="post" enctype="multipart/form-data" >
         Agregar archivo
         <input type="file" name="archivo">
         <br>
